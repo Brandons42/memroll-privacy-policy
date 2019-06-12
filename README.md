@@ -3,11 +3,11 @@
 The official privacy policy for the MemRoll iOS app.
 
 ## Table of Contents
-[Information used](#information-used)
-[Advertisements and third party services](#advertisements-and-third-party-services)
-[Deleting your data](#deleting-your-data)
-[European Economic Area residents](#european-economic-area-residents)
-[Changes](#changes)
+[Information used](#information-used)  
+[Advertisements and third party services](#advertisements-and-third-party-services)  
+[Deleting your data](#deleting-your-data)  
+[European Economic Area residents](#european-economic-area-residents)  
+[Changes](#changes)  
 [Contact](#contact)
 ___
 The privacy policy below is effective as of June 12, 2019 and applies to the MemRoll app for iOS.
