@@ -1,6 +1,6 @@
 # MemRoll Privacy Policy
 
-The official privacy policy for the MemRoll iOS app.
+The official privacy policy for the MemRoll iOS app. You can find the privacy policy for the pro version [here](https://github.com/Brandons42/memroll-pro-privacy-policy).
 
 ## Table of Contents
 [Information used](#information-used)  
