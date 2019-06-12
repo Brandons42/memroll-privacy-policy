@@ -1,7 +1,7 @@
 # MemRoll Privacy Policy
 
 The official privacy policy for the MemRoll iOS app.
-___
+
 ## Table of Contents
 [Information used](#information-used)
 [Advertisements and third party services](#advertisements-and-third-party-services)
